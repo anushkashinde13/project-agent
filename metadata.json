@@ -1,0 +1,6 @@
+{
+  "name": "Project Agent",
+  "description": "An AI-powered personal agent that understands goals, invokes tools, verifies outcomes, and provides an incremental architecture guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
