@@ -1,10 +1,10 @@
-# 🤖 Project Agent
+#  Project Agent
 
 Project Agent is an AI-powered personal agent designed to do more than just answer questions.
 
 Instead of simply generating a response, the agent can understand what the user wants to accomplish, decide what actions are required, use the appropriate tools, and return the result.
 
-## 💡 The Idea
+##  The Idea
 
 Most AI chatbots work like this:
 
@@ -28,7 +28,7 @@ The goal is to make interacting with software more natural by allowing the AI to
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 Project Agent is built around the concept of **AI tool calling**.
 
